@@ -1,0 +1,13 @@
+C:\Users\etudiant\source\repos\ClasseBatiment\bin\Debug\netcoreapp3.1\ClasseBatiment.exe
+C:\Users\etudiant\source\repos\ClasseBatiment\bin\Debug\netcoreapp3.1\ClasseBatiment.deps.json
+C:\Users\etudiant\source\repos\ClasseBatiment\bin\Debug\netcoreapp3.1\ClasseBatiment.runtimeconfig.json
+C:\Users\etudiant\source\repos\ClasseBatiment\bin\Debug\netcoreapp3.1\ClasseBatiment.runtimeconfig.dev.json
+C:\Users\etudiant\source\repos\ClasseBatiment\bin\Debug\netcoreapp3.1\ClasseBatiment.dll
+C:\Users\etudiant\source\repos\ClasseBatiment\bin\Debug\netcoreapp3.1\ClasseBatiment.pdb
+C:\Users\etudiant\source\repos\ClasseBatiment\obj\Debug\netcoreapp3.1\ClasseBatiment.csprojAssemblyReference.cache
+C:\Users\etudiant\source\repos\ClasseBatiment\obj\Debug\netcoreapp3.1\ClasseBatiment.AssemblyInfoInputs.cache
+C:\Users\etudiant\source\repos\ClasseBatiment\obj\Debug\netcoreapp3.1\ClasseBatiment.AssemblyInfo.cs
+C:\Users\etudiant\source\repos\ClasseBatiment\obj\Debug\netcoreapp3.1\ClasseBatiment.csproj.CoreCompileInputs.cache
+C:\Users\etudiant\source\repos\ClasseBatiment\obj\Debug\netcoreapp3.1\ClasseBatiment.dll
+C:\Users\etudiant\source\repos\ClasseBatiment\obj\Debug\netcoreapp3.1\ClasseBatiment.pdb
+C:\Users\etudiant\source\repos\ClasseBatiment\obj\Debug\netcoreapp3.1\ClasseBatiment.genruntimeconfig.cache
